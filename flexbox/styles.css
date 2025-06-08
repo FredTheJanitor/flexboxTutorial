@@ -9,6 +9,8 @@
   color: #fff;
   background-color: #5995DA;  /* Blue */
   padding: 20px 0;
+  /* add display flex */
+  display: flex;
 }
 
 .menu {
