@@ -20,10 +20,13 @@
         space-around
         space-between
   */
-  
+
 }
 
 .menu {
   border: 1px solid #fff;  /* For debugging */
   width: 900px;
+  /* multiple item distribution */
+  display: flex;
+  justify-content: space-around;
 }
