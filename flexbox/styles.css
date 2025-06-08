@@ -61,4 +61,6 @@
   height: 300px;
   display: flex;
   justify-content: space-between;
+  /* vertically align header flex items */
+  align-items: center;
 }
