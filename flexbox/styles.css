@@ -65,11 +65,14 @@
   align-items: center;
 }
 
-.social, .logo, .subscribe {
+.social, .subscribe {
     /* border for debugging */
     /*  
     border: 1px solid #5995DA;
     */
+    /* self align can be cool for grabbing specific stuff and moving it, especially up and down */
+    align-self: flex-end;
+    margin: 20px;
 }
 
 /* add basic template flex styling for photos */
