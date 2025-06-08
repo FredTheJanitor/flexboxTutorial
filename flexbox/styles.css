@@ -121,3 +121,8 @@
     flex: initial;
     width: 300px;
 }
+
+/* take advantage of auto margin */
+.signup {
+  margin-left: auto;
+}
