@@ -35,7 +35,10 @@
 }
 
 .links {
+    /*For debugging */
+    /*  
     border: 1px solid #fff;
+    */
     display: flex;
     justify-content: flex-end;
 }
