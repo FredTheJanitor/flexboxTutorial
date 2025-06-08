@@ -71,3 +71,22 @@
     border: 1px solid #5995DA;
     */
 }
+
+/* add basic template flex styling for photos */
+
+.photo-grid-container {
+  display: flex;
+  justify-content: center;
+}
+
+.photo-grid {
+  width: 900px;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.photo-grid-item {
+  border: 1px solid #fff;
+  width: 300px;
+  height: 300px;
+}
