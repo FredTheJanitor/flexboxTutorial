@@ -85,7 +85,9 @@
   justify-content: center;
   flex-wrap: wrap;
   /* column mode */
-  flex-direction: column;
+  /* change to row-reverse */
+  /* row reverse is weird because it reverses each row, individually, not totally reversing 1 to where 5 would be etc */
+  flex-direction: row-reverse;
   /* align-items and justify-content rotate with column rotation */
   align-items: center;
 }
