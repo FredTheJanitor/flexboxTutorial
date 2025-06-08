@@ -114,3 +114,7 @@
   height: 200px;
   flex: 1;
 }
+/* add footer-three specific flex value */
+.footer-three {
+    flex: 2;
+}
