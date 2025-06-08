@@ -64,3 +64,10 @@
   /* vertically align header flex items */
   align-items: center;
 }
+
+.social, .logo, .subscribe {
+    /* border for debugging */
+    /*  
+    border: 1px solid #5995DA;
+    */
+}
